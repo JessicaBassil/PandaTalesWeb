@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PandaTalesWeb/static/css/main.7881a1a0.css",
+    "main.js": "/PandaTalesWeb/static/js/main.358ccd48.js",
+    "static/js/453.ee5d9d85.chunk.js": "/PandaTalesWeb/static/js/453.ee5d9d85.chunk.js",
+    "static/media/background.svg": "/PandaTalesWeb/static/media/background.af3292882ec4ecdf2c5b.svg",
+    "static/media/Character.svg": "/PandaTalesWeb/static/media/Character.b103e2e5ad3c6653033c.svg",
+    "static/media/foreground.svg": "/PandaTalesWeb/static/media/foreground.7dcb02a455d6cd10d724.svg",
+    "static/media/ss1.jpg": "/PandaTalesWeb/static/media/ss1.f4444452792a185ca4f2.jpg",
+    "static/media/ss2.jpg": "/PandaTalesWeb/static/media/ss2.725a2763fe11c994e68e.jpg",
+    "index.html": "/PandaTalesWeb/index.html",
+    "main.7881a1a0.css.map": "/PandaTalesWeb/static/css/main.7881a1a0.css.map",
+    "main.358ccd48.js.map": "/PandaTalesWeb/static/js/main.358ccd48.js.map",
+    "453.ee5d9d85.chunk.js.map": "/PandaTalesWeb/static/js/453.ee5d9d85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7881a1a0.css",
+    "static/js/main.358ccd48.js"
+  ]
+}
