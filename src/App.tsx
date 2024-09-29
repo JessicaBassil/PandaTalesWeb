@@ -43,7 +43,7 @@ function App() {
             <button className="ios-btn">Download on iOS (coming soon)</button>
             <a
               className="android-btn"
-              href="https://expo.dev/artifacts/eas/3uVg36K9C83HuoZ9mm5xBL.apk"
+              href="https://expo.dev/artifacts/eas/qBUkUpT5mpLbqmi7gjA5J9.apk"
             >
               Download on Android
             </a>
